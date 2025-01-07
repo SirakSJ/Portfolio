@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Sirak from "./sirak/sirak";
 
 export default function Home() {
   return (
